@@ -1,0 +1,35 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:orientation="vertical" android:padding="20dp">
+
+        <EditText
+            android:id="@+id/et_Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Cím"/>
+
+        <EditText
+            android:id="@+id/et_Author"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Szerző"
+            android:layout_marginTop="8dp"/>
+
+        <Spinner
+            android:id="@+id/spinner_Genre"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"/>
+
+        <EditText
+            android:id="@+id/et_Year"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Év"
+            android:inputType="number"
+            android:layout_marginTop="8dp"/>
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,17 @@
+<resources>
+        <string name="app_name">BookShelf</string>
+        <string name="bs_app_title">BookShelf</string>
+        <string name="bs_login_subtitle">Jelentkezz be a könyvtáradhoz</string>
+        <string name="bs_hint_username">Felhasználónév</string>
+        <string name="bs_hint_password">Jelszó</string>
+        <string name="content_desc_status">Olvasási státusz</string>
+        <string name="content_desc_edit">Szerkesztés</string>
+        <string name="content_desc_delete">Törlés</string>
+        <string name="bs_button_login">Bejelentkezés</string>
+        <string name="bs_theme_switch">Világos téma</string>
+        <string name="bs_forgot_password">Elfelejtett jelszó?</string>
+        <string name="bs_credentials_empty">Kérlek töltsd ki mindkét mezőt.</string>
+        <string name="bs_credentials_wrong">Hibás felhasználónév vagy jelszó.</string>
+        <string name="bs_admin_username">admin</string>
+        <string name="bs_admin_password">1234</string>
+</resources>

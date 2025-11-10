@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bs_blue">#1E88E5</color>
+    <color name="bs_primary">#1E88E5</color>
+    <color name="bs_primary_dark">#1565C0</color>
+    <color name="bs_primary_light">#E3F2FD</color>
+    <color name="bs_on_primary">#FFFFFF</color>
+    <color name="bs_card_bg">#F1F7FF</color>
+    <color name="bs_card_stroke">#B3D4FF</color>
+    <color name="bs_text_primary">#0D1B2A</color>
+    <color name="bs_text_secondary">#3D5A80</color>
+    <color name="bs_icon_tint">#1E88E5</color>
+    <color name="bs_ripple">#331E88E5</color>
+</resources>
